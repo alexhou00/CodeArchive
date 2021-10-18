@@ -6,12 +6,12 @@ int main(){
 	cin >> m >> d;
 	s =(m*2+d)%3;
 	if (s==0){
-		cout << "´¶³q";
+		cout << "æ™®é€š";
 	}
 	else if (s==1){
-		cout << "¦N";
+		cout << "å‰";
 	}
 	else {
-		cout << "¤j¦N";
+		cout << "å¤§å‰";
 	}
 }
